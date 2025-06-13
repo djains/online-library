@@ -39,7 +39,7 @@ export default function NavBar() {
         <HoverLink to="/" text="Home" />
         <HoverLink to="/books" text="Browse Books" />
         <HoverLink to="/add" text="Add Book" />
-        <a href="" style={{color:"white"}}>GITHUB</a>
+        <a href="https://github.com/djains/online-library.git" style={{color:"white"}}>GITHUB</a>
       </div>
     </nav>
   );
